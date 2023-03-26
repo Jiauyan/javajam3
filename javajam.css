@@ -1,12 +1,12 @@
 body {background-color: #FCEBB6; 
     color: #221811;
     font-family: Verdana, Arial, sans-serif;
-   background-image: url("C:\javajam2\images\images\background.gif");
+   background-image: url("images/images/background.gif");
    }
 
 header { background-color: #D2B48C;
     height: 150px;
-    background-image:url("C:\javajam2\images\images\javajamlogo.jpg"); 
+    background-image:url("images/images/javajamlogo.jpg"); 
     background-repeat: no-repeat;
    }
 
@@ -64,12 +64,12 @@ h4 { background-color: #D2B48C;
      padding-bottom: 5px;
    }
 
-img { padding-left: 0 px;
+img { padding-left: 10 px;
       padding-right: 10px;
    }
 
 .details { padding-left: 20%;
-    padding-right: 20%;
+           padding-right: 20%;
    }
 
 * { box-sizing: border-box; }
